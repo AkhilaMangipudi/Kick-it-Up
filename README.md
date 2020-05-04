@@ -1,5 +1,5 @@
 # Kick-it-up
-CSCE 676: Data Mining and Analysis Project Repo
+Data mining on Kickstarter data
 
 # Project Website
 https://sites.google.com/view/kickitup/home
